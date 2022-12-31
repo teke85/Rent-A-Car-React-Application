@@ -1,11 +1,11 @@
 import React from 'react'
 
-function NotFound() {
+const Footer = () => {
   return (
     <div>
-      
+      Footer
     </div>
   )
 }
 
-export default NotFound
+export default Footer
